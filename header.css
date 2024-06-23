@@ -138,7 +138,7 @@
     opacity: 0;
     transition: opacity 0.15s;
 }
-.insta-logo:hover+.tooltip{
+.insta:hover+.tooltip{
     opacity: 1;
 }
 .saved-logo{
